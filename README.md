@@ -1,4 +1,4 @@
-# DHCP Installation configuration in Active Directory.
+# DHCP Installation and configuration in Active Directory.
 
 
 
